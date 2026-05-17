@@ -28,14 +28,14 @@ apis:
     properties:
       - type: Documentation
         url: https://luraproject.org/docs/overview/
-      - type: Getting Started
+      - type: GettingStarted
         url: https://luraproject.org/docs/overview/quickstart/
 common:
   - type: Website
     url: https://luraproject.org/
   - type: Documentation
     url: https://luraproject.org/docs/overview/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/luraproject
 maintainers:
   - FN: Kin Lane
