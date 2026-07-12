@@ -31,6 +31,8 @@ apis:
       - type: GettingStarted
         url: https://luraproject.org/docs/overview/quickstart/
 common:
+  - type: DomainSecurity
+    url: security/lura-domain-security.yml
   - type: Website
     url: https://luraproject.org/
   - type: Documentation
