@@ -21,6 +21,10 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/lura.png
 tags:
   - API Gateway
   - Framework
+  - Open-Source
+tags_raw:
+  - API Gateway
+  - Framework
   - Open Source
 url: >-
   https://raw.githubusercontent.com/api-evangelist/lura/refs/heads/main/apis.yml
@@ -35,6 +39,9 @@ apis:
       ultra-performant API gateways with middlewares.
     humanURL: https://luraproject.org/
     tags:
+      - API Gateway
+      - Open-Source
+    tags_raw:
       - API Gateway
       - Open Source
     properties:
